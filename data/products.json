@@ -1,0 +1,1669 @@
+{
+  "1": {
+    "id": 21,
+    "model": 21,
+    "name": "Classic Tortoise Oval",
+    "description": "Timeless oval sunglasses with tortoiseshell acetate frame.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 0,
+        "sku": "21-0",
+        "colorway": "Tortoiseshell",
+        "imageFront": "/store/images/sunglasses/21_front.png",
+        "imageSide": "/store/images/sunglasses/21_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Tortoiseshell (brown and black marbled pattern)",
+            "lensColor": "Dark gray",
+            "overallStyle": "Retro oval",
+            "appearanceTone": "Two-tone (tortoiseshell frame + dark gray lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Oval with soft, rounded edges",
+            "frameThickness": "Moderate",
+            "lineFeatures": "Smooth, glossy surface; continuous curved lines from frame to temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Neutral dark gray",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Classic sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Glossy acetate plastic",
+            "templeStructure": "Full-length, slightly curved design",
+            "noseBridgeDesign": "Integrated, contoured for fit"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light to moderate",
+            "faceShapeAdaptation": "Suitable for oval, round, or heart face shapes; soft curves balance facial features",
+            "populationStyleTendency": "Appealing to those seeking retro, classic, or timeless aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Casual outings, daily commuting, weekend activities, urban travel"
+          }
+        }
+      }
+    ]
+  },
+  "2": {
+    "id": 16,
+    "model": 16,
+    "name": "Retro Mirror Oval",
+    "description": "Retro oval sunglasses with white frame and iridescent mirror lenses.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 1,
+        "sku": "16-1",
+        "colorway": "White",
+        "imageFront": "/store/images/sunglasses/16_1_front.png",
+        "imageSide": "/store/images/sunglasses/16_1_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Matte white",
+            "lensColor": "Iridescent blue-purple (mirror coating)",
+            "overallStyle": "Retro oval",
+            "appearanceTone": "Two-tone (white frame + iridescent lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Oval with smooth, curved edges",
+            "frameThickness": "Moderate",
+            "lineFeatures": "Smooth, matte surface; continuous curved lines from frame to temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Iridescent mirror (blue-purple base)",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Mirror-coated sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte plastic",
+            "templeStructure": "Full-length, flexible design with slight curvature",
+            "noseBridgeDesign": "Integrated, contoured for fit"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light",
+            "faceShapeAdaptation": "Suitable for oval, round, or heart face shapes; soft curves balance angular features",
+            "populationStyleTendency": "Appealing to those seeking retro, vibrant, or sporty aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Outdoor sports, beach vacation, casual outings, street fashion"
+          }
+        }
+      },
+      {
+        "variety": 2,
+        "sku": "16-2",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/16_2_front.png",
+        "imageSide": "/store/images/sunglasses/16_2_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Matte black",
+            "lensColor": "Dark gray",
+            "overallStyle": "Retro oval",
+            "appearanceTone": "Monochromatic (dark)"
+          },
+          "frameDesign": {
+            "frameShape": "Oval with smooth, curved edges",
+            "frameThickness": "Moderate",
+            "lineFeatures": "Smooth, matte surface; continuous curved lines from frame to temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Neutral dark gray",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte plastic",
+            "templeStructure": "Full-length, flexible design with slight curvature",
+            "noseBridgeDesign": "Integrated, contoured for fit"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light",
+            "faceShapeAdaptation": "Suitable for oval, round, or heart face shapes; soft curves balance angular features",
+            "populationStyleTendency": "Appealing to those seeking retro, minimalist, or understated aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily commuting, outdoor leisure, casual outings, urban travel"
+          }
+        }
+      }
+    ]
+  },
+  "3": {
+    "id": 2,
+    "model": 2,
+    "name": "Slim Metal Rectangle",
+    "description": "Minimalist silver rectangular sunglasses with dark protective lenses.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 1,
+        "sku": "2-1",
+        "colorway": "Silver",
+        "imageFront": "/store/images/sunglasses/2_1_front.png",
+        "imageSide": "/store/images/sunglasses/2_1_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Silver (metallic)",
+            "lensColor": "Gradient light blue (tinted)",
+            "overallStyle": "Sleek, classic",
+            "appearanceTone": "Fresh, understated"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular (with slightly rounded corners)",
+            "frameThickness": "Thin",
+            "lineFeatures": "Smooth, minimalist contours"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Dark gray",
+            "lightTransmittance": "Low (highly opaque tint)",
+            "styleAttribute": "Sun-protective, daily practical"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Metal (shiny, lightweight texture)",
+            "templeStructure": "Thin metal frame + black end tips",
+            "noseBridgeDesign": "Integrated metal bridge (with adjustable nose pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Lightweight",
+            "faceShapeAdaptation": "Likely suitable for oval/rectangular faces",
+            "populationStyleTendency": "Fits casual daily users"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily outdoor, commuting, casual leisure"
+          }
+        }
+      },
+      {
+        "variety": 3,
+        "sku": "2-3",
+        "colorway": "Brown",
+        "imageFront": "/store/images/sunglasses/2_3_front.png",
+        "imageSide": "/store/images/sunglasses/2_3_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Silver (metallic)",
+            "lensColor": "Gradient light blue (tinted)",
+            "overallStyle": "Sleek, classic",
+            "appearanceTone": "Fresh, understated"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular (with slightly rounded corners)",
+            "frameThickness": "Thin",
+            "lineFeatures": "Smooth, minimalist contours"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Brown (amber tone)",
+            "lightTransmittance": "Medium (semi-transparent tint)",
+            "styleAttribute": "Daily practical, warm-tone protective"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Metal (shiny, lightweight texture)",
+            "templeStructure": "Thin metal frame + black end tips",
+            "noseBridgeDesign": "Integrated metal bridge (with adjustable nose pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Lightweight",
+            "faceShapeAdaptation": "Likely suitable for oval/rectangular faces",
+            "populationStyleTendency": "Fits casual daily users"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily outdoor, commuting, casual leisure"
+          }
+        }
+      },
+      {
+        "variety": 2,
+        "sku": "2-2",
+        "colorway": "Blue",
+        "imageFront": "/store/images/sunglasses/2_2_front.png",
+        "imageSide": "/store/images/sunglasses/2_2_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Silver (metallic)",
+            "lensColor": "Gradient light blue (tinted)",
+            "overallStyle": "Sleek, classic",
+            "appearanceTone": "Fresh, understated"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular (with slightly rounded corners)",
+            "frameThickness": "Thin",
+            "lineFeatures": "Smooth, minimalist contours"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Blue",
+            "lightTransmittance": "Medium (semi-transparent gradient)",
+            "styleAttribute": "Daily, practical"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Metal (shiny, lightweight texture)",
+            "templeStructure": "Thin metal frame + black end tips",
+            "noseBridgeDesign": "Integrated metal bridge (with adjustable nose pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Lightweight",
+            "faceShapeAdaptation": "Likely suitable for oval/rectangular faces",
+            "populationStyleTendency": "Fits casual daily users"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily outdoor, commuting, casual leisure"
+          }
+        }
+      },
+      {
+        "variety": 4,
+        "sku": "2-4",
+        "colorway": "Green",
+        "imageFront": "/store/images/sunglasses/2_4_front.png",
+        "imageSide": "/store/images/sunglasses/2_4_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Silver (metallic)",
+            "lensColor": "Gradient light blue (tinted)",
+            "overallStyle": "Sleek, classic",
+            "appearanceTone": "Fresh, understated"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular (with slightly rounded corners)",
+            "frameThickness": "Thin",
+            "lineFeatures": "Smooth, minimalist contours"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Green",
+            "lightTransmittance": "Medium (semi-transparent tint)",
+            "styleAttribute": "Practical, daily-use"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Metal (shiny, lightweight texture)",
+            "templeStructure": "Thin metal frame + black end tips",
+            "noseBridgeDesign": "Integrated metal bridge (with adjustable nose pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Lightweight",
+            "faceShapeAdaptation": "Likely suitable for oval/rectangular faces",
+            "populationStyleTendency": "Fits casual daily users"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily outdoor, commuting, casual leisure"
+          }
+        }
+      }
+    ]
+  },
+  "4": {
+    "id": 20,
+    "model": 20,
+    "name": "Rimless Gradient Pro",
+    "description": "Sleek rimless sunglasses with warm brown gradient lenses.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 4,
+        "sku": "20-4",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/20_4_front.png",
+        "imageSide": "/store/images/sunglasses/20_4_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Matte black (metallic)",
+            "lensColor": "Gradient warm brown (darker at top, lighter at bottom)",
+            "overallStyle": "Rimless rectangular",
+            "appearanceTone": "Two-tone (black frame + warm brown lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular with sharp, angular edges (rimless)",
+            "frameThickness": "Minimal (rimless design)",
+            "lineFeatures": "Ultra-slim, smooth metallic surface; clean, linear lines from nose bridge to temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Warm gradient brown",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Rimless gradient sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte metallic alloy",
+            "templeStructure": "Ultra-slim, full-length, flexible design",
+            "noseBridgeDesign": "Minimal, integrated with lens mounts"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Very light",
+            "faceShapeAdaptation": "Suitable for oval, square, or heart face shapes; sharp edges balance soft facial features",
+            "populationStyleTendency": "Appealing to those seeking modern, minimalist, or sophisticated aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily commuting, business casual, outdoor leisure, urban travel"
+          }
+        }
+      },
+      {
+        "variety": 3,
+        "sku": "20-3",
+        "colorway": "Red",
+        "imageFront": "/store/images/sunglasses/20_3_front.png",
+        "imageSide": "/store/images/sunglasses/20_3_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Matte red (metallic)",
+            "lensColor": "Iridescent orange-yellow (mirror coating, with green upper gradient)",
+            "overallStyle": "Rimless rectangular",
+            "appearanceTone": "Two-tone (red frame + iridescent lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular with sharp, angular edges (rimless)",
+            "frameThickness": "Minimal (rimless design)",
+            "lineFeatures": "Ultra-slim, smooth metallic surface; clean, linear lines from nose bridge to temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Warm iridescent mirror (orange-yellow base with green gradient)",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Rimless mirror-coated sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte metallic alloy",
+            "templeStructure": "Ultra-slim, full-length, flexible design",
+            "noseBridgeDesign": "Minimal, integrated with lens mounts"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Very light",
+            "faceShapeAdaptation": "Suitable for oval, square, or heart face shapes; sharp edges balance soft facial features",
+            "populationStyleTendency": "Appealing to those seeking bold, vibrant, or futuristic aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Outdoor sports, music festivals, beach vacation, street fashion"
+          }
+        }
+      },
+      {
+        "variety": 2,
+        "sku": "20-2",
+        "colorway": "Silver",
+        "imageFront": "/store/images/sunglasses/20_2_front.png",
+        "imageSide": "/store/images/sunglasses/20_2_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Matte silver (metallic)",
+            "lensColor": "Mirror-coated warm gold-brown",
+            "overallStyle": "Rimless rectangular",
+            "appearanceTone": "Two-tone (silver frame + gold-brown lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular with sharp, angular edges (rimless)",
+            "frameThickness": "Minimal (rimless design)",
+            "lineFeatures": "Ultra-slim, smooth metallic surface; clean, linear lines from nose bridge to temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Warm metallic mirror (gold-brown base)",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Rimless mirror-coated sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte metallic alloy",
+            "templeStructure": "Ultra-slim, full-length, flexible design",
+            "noseBridgeDesign": "Minimal, integrated with lens mounts"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Very light",
+            "faceShapeAdaptation": "Suitable for oval, square, or heart face shapes; sharp edges balance soft facial features",
+            "populationStyleTendency": "Appealing to those seeking modern, minimalist, or sophisticated aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Outdoor sports, beach vacation, business casual, urban travel"
+          }
+        }
+      },
+      {
+        "variety": 1,
+        "sku": "20-1",
+        "colorway": "White",
+        "imageFront": "/store/images/sunglasses/20_1_front.png",
+        "imageSide": "/store/images/sunglasses/20_1_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Matte white",
+            "lensColor": "Iridescent blue-green (mirror coating)",
+            "overallStyle": "Rimless rectangular",
+            "appearanceTone": "Two-tone (white frame + iridescent lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular with sharp, angular edges (rimless)",
+            "frameThickness": "Minimal (rimless design)",
+            "lineFeatures": "Ultra-slim, smooth surface; clean, linear lines from nose bridge to temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Iridescent mirror (blue-green base)",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Rimless mirror-coated sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte plastic",
+            "templeStructure": "Ultra-slim, full-length, flexible design",
+            "noseBridgeDesign": "Minimal, integrated with lens mounts"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Very light",
+            "faceShapeAdaptation": "Suitable for oval, square, or heart face shapes; sharp edges balance soft facial features",
+            "populationStyleTendency": "Appealing to those seeking modern, minimalist, or futuristic aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Outdoor sports, beach vacation, street fashion, urban travel"
+          }
+        }
+      }
+    ]
+  },
+  "5": {
+    "id": 6,
+    "model": 6,
+    "name": "Thick White Rectangle",
+    "description": "Bold rectangular sunglasses with thick white frame.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 0,
+        "sku": "6-0",
+        "colorway": "White",
+        "imageFront": "/store/images/sunglasses/6_front.png",
+        "imageSide": "/store/images/sunglasses/6_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "White",
+            "lensColor": "Dark gray",
+            "overallStyle": "Rectangular-frame sunglasses",
+            "appearanceTone": "Simple and uniform"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangle (with slightly rounded edges)",
+            "frameThickness": "Relatively thick",
+            "lineFeatures": "Smooth, curved contour lines"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Cool-toned (gray)",
+            "lightTransmittance": "Low (opaque under normal light)",
+            "styleAttribute": "Full-coverage, solid-color"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Glossy plastic (or resin-like)",
+            "templeStructure": "Integrated with frame, smooth surface (with small decorative markings on side)",
+            "noseBridgeDesign": "Integrated (connected directly to frame, no separate pad structure visible)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light to medium (based on plastic-like material)",
+            "faceShapeAdaptation": "May fit oval/heart-shaped faces (rectangular frame with rounded edges)",
+            "populationStyleTendency": "Casual, daily fashion"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily leisure, outdoor activities, sun protection"
+          }
+        }
+      }
+    ]
+  },
+  "6": {
+    "id": 9,
+    "model": 9,
+    "name": "Feminine Cat-Eye Oval",
+    "description": "Sleek black cat-eye sunglasses with modern styling.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 2,
+        "sku": "9-2",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/9_2_front.png",
+        "imageSide": "/store/images/sunglasses/9_2_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Black",
+            "lensColor": "Dark gray (with subtle light reflection)",
+            "overallStyle": "Cat-eye oval-frame sunglasses",
+            "appearanceTone": "Sleek, modern"
+          },
+          "frameDesign": {
+            "frameShape": "Oval (with cat-eye-style raised outer edges, full-frame)",
+            "frameThickness": "Moderately thick (plump edge design)",
+            "lineFeatures": "Smooth curves (with angular details at the outer frame)"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Dark neutral color (gray series)",
+            "lightTransmittance": "Low (suitable for strong light)",
+            "styleAttribute": "Opaque (non-polarized appearance)"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Glossy plastic",
+            "templeStructure": "Integrated with frame (curved for ear fitting; with a small heart-shaped decorative detail)",
+            "noseBridgeDesign": "Connected full-frame bridge (no independent nose pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light (plastic material)",
+            "faceShapeAdaptation": "Suitable for small to medium face shapes",
+            "populationStyleTendency": "Casual, trendy fashion preference"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily leisure, outdoor sun protection, casual styling"
+          }
+        }
+      },
+      {
+        "variety": 3,
+        "sku": "9-3",
+        "colorway": "Tortoiseshell",
+        "imageFront": "/store/images/sunglasses/9_3_front.png",
+        "imageSide": "/store/images/sunglasses/9_3_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Tortoiseshell (brown with irregular lighter patterns)",
+            "lensColor": "Dark gray (with subtle light reflection)",
+            "overallStyle": "Cat-eye oval-frame sunglasses",
+            "appearanceTone": "Classic, textured"
+          },
+          "frameDesign": {
+            "frameShape": "Oval (with cat-eye-style raised outer edges, full-frame)",
+            "frameThickness": "Moderately thick (plump edge design)",
+            "lineFeatures": "Smooth curves (with angular details at the outer frame)"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Dark neutral color (gray series)",
+            "lightTransmittance": "Low (suitable for strong light)",
+            "styleAttribute": "Opaque (non-polarized appearance)"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Plastic (tortoiseshell-patterned, glossy surface)",
+            "templeStructure": "Integrated with frame (curved for ear fitting; with a small heart-shaped decorative detail)",
+            "noseBridgeDesign": "Connected full-frame bridge (no independent nose pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light (plastic material)",
+            "faceShapeAdaptation": "Suitable for small to medium face shapes",
+            "populationStyleTendency": "Casual, retro-fashion preference"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily leisure, outdoor sun protection, casual styling"
+          }
+        }
+      },
+      {
+        "variety": 1,
+        "sku": "9-1",
+        "colorway": "Off-white",
+        "imageFront": "/store/images/sunglasses/9_1_front.png",
+        "imageSide": "/store/images/sunglasses/9_1_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Off-white (light white)",
+            "lensColor": "Dark gray (with slight light reflection)",
+            "overallStyle": "Cat-eye oval-frame sunglasses",
+            "appearanceTone": "Minimalist, gentle"
+          },
+          "frameDesign": {
+            "frameShape": "Oval (with cat-eye-style raised outer edges, full-frame)",
+            "frameThickness": "Moderately thick (plump edge design)",
+            "lineFeatures": "Smooth curves (with subtle angular details at the outer frame)"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Dark neutral color (gray series)",
+            "lightTransmittance": "Low (suitable for strong light)",
+            "styleAttribute": "Opaque (non-polarized appearance)"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Glossy plastic",
+            "templeStructure": "Integrated with frame (curved for ear fitting; with a small heart-shaped decorative detail)",
+            "noseBridgeDesign": "Connected full-frame bridge (no independent nose pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light (plastic material)",
+            "faceShapeAdaptation": "Suitable for small to medium face shapes",
+            "populationStyleTendency": "Casual, feminine fashion preference"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily leisure, outdoor sun protection, casual styling"
+          }
+        }
+      }
+    ]
+  },
+  "7": {
+    "id": 22,
+    "model": 22,
+    "name": "Bold Sculpted Rectangle",
+    "description": "Fashion-forward rectangular sunglasses with sculpted edges.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 0,
+        "sku": "22-0",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/22_front.png",
+        "imageSide": "/store/images/sunglasses/22_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Glossy black",
+            "lensColor": "Dark gray (gradient)",
+            "overallStyle": "Bold rectangular",
+            "appearanceTone": "Monochromatic (black frame + dark gray lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular with angular, sculpted edges",
+            "frameThickness": "Moderate to thick",
+            "lineFeatures": "Glossy, smooth surface; sharp, defined lines from frame to temples, with a metallic accent on the temple"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Neutral dark gray (gradient)",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Classic sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Glossy acetate plastic",
+            "templeStructure": "Full-length, slightly curved design with a metallic logo accent",
+            "noseBridgeDesign": "Integrated, contoured for fit"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Moderate",
+            "faceShapeAdaptation": "Suitable for square, rectangular, or heart face shapes; bold angular lines balance strong facial features",
+            "populationStyleTendency": "Appealing to those seeking modern, bold, or fashion-forward aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Street fashion, daily commuting, weekend outings, urban travel"
+          }
+        }
+      }
+    ]
+  },
+  "8": {
+    "id": 14,
+    "model": 14,
+    "name": "Classic Rectangular Core",
+    "description": "Reliable rectangular sunglasses for everyday wear.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 0,
+        "sku": "14-0",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/14_front.png",
+        "imageSide": "/store/images/sunglasses/14_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Black",
+            "lensColor": "Dark smoke gray",
+            "overallStyle": "Classic rectangular",
+            "appearanceTone": "Monochromatic (dark)"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular with slightly rounded upper corners",
+            "frameThickness": "Moderate to thick",
+            "lineFeatures": "Smooth, glossy surface; continuous lines from frame to temples with no obvious breaks"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Neutral smoke gray",
+            "lightTransmittance": "Low (near-opaque under normal light)",
+            "styleAttribute": "Sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Glossy plastic (possibly acetate)",
+            "templeStructure": "Full-length, integrated with frame; straight design with slight inward tilt at the end",
+            "noseBridgeDesign": "Integrated, contoured with subtle raised edges for fit"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Moderate (based on frame thickness and plastic material)",
+            "faceShapeAdaptation": "Suitable for medium to wide face shapes; balances angular features",
+            "populationStyleTendency": "Appealing to those preferring timeless, low-profile daily wear"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily commuting, outdoor sun protection, casual outings, urban travel"
+          }
+        }
+      }
+    ]
+  },
+  "9": {
+    "id": 15,
+    "model": 15,
+    "name": "Playful Cat-Eye Rectangle",
+    "description": "Pastel purple cat-eye rectangular sunglasses with retro charm.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 0,
+        "sku": "15-0",
+        "colorway": "Purple",
+        "imageFront": "/store/images/sunglasses/15_front.png",
+        "imageSide": "/store/images/sunglasses/15_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Pastel light purple (matte finish)",
+            "lensColor": "Dark gray",
+            "overallStyle": "Retro cat-eye rectangular",
+            "appearanceTone": "Two-tone (light purple frame + dark gray lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular with cat-eye uplifted upper edges",
+            "frameThickness": "Moderate",
+            "lineFeatures": "Smooth, matte surface; subtle angular contours on frame sides; small metal accent on temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Neutral dark gray",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte plastic",
+            "templeStructure": "Full-length, integrated with frame; slight taper toward the end",
+            "noseBridgeDesign": "Integrated, contoured for fit"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light to moderate",
+            "faceShapeAdaptation": "Suitable for oval, heart, or medium face shapes; uplifted edges balance rounder features",
+            "populationStyleTendency": "Appealing to those seeking retro, playful, or feminine aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily casual, weekend outings, street fashion, vacation sun protection"
+          }
+        }
+      }
+    ]
+  },
+  "10": {
+    "id": 3,
+    "model": 3,
+    "name": "Clear Square Modern",
+    "description": "Minimalist clear-frame sunglasses with gradient gray lenses.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 0,
+        "sku": "3-0",
+        "colorway": "Transparent",
+        "imageFront": "/store/images/sunglasses/3_front.png",
+        "imageSide": "/store/images/sunglasses/3_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Transparent clear",
+            "lensColor": "Gradient gray (darker at top, lighter at bottom)",
+            "overallStyle": "Minimalist modern sunglasses",
+            "appearanceTone": "Fresh and neutral"
+          },
+          "frameDesign": {
+            "frameShape": "Square (with softly rounded corners)",
+            "frameThickness": "Thin",
+            "lineFeatures": "Straight and smooth, with consistent width throughout the frame"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Gray series",
+            "lightTransmittance": "Medium (semi-transparent, gradient type)",
+            "styleAttribute": "Fashionable shading"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Transparent plastic (or clear acetate)",
+            "templeStructure": "Slim, straight with a slight curve at the end for ear fit",
+            "noseBridgeDesign": "Integrated transparent bridge with small raised pads"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light (due to thin frame and transparent material)",
+            "faceShapeAdaptation": "Likely suitable for square, round, or oblong faces",
+            "populationStyleTendency": "Young adults pursuing minimalist and versatile styles"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily commuting, urban leisure, casual dating, spring and summer outings"
+          }
+        }
+      }
+    ]
+  },
+  "11": {
+    "id": 18,
+    "model": 18,
+    "name": "Sporty Matte Rectangle",
+    "description": "Functional sporty sunglasses in dark olive matte finish.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 2,
+        "sku": "18-2",
+        "colorway": "Olive Green",
+        "imageFront": "/store/images/sunglasses/18_2_front.png",
+        "imageSide": "/store/images/sunglasses/18_2_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Matte dark olive green",
+            "lensColor": "Dark gray",
+            "overallStyle": "Sporty rectangular",
+            "appearanceTone": "Monochromatic (dark)"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular with softly rounded corners",
+            "frameThickness": "Moderate",
+            "lineFeatures": "Smooth, matte surface; clean, angular lines from frame to temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Neutral dark gray",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte plastic",
+            "templeStructure": "Full-length, flexible design with slight curvature",
+            "noseBridgeDesign": "Integrated, contoured for fit"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light to moderate",
+            "faceShapeAdaptation": "Suitable for square, rectangular, or wide face shapes; angular lines balance strong facial features",
+            "populationStyleTendency": "Appealing to those seeking sporty, understated, or functional aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Outdoor sports, daily commuting, casual outings, urban travel"
+          }
+        }
+      },
+      {
+        "variety": 1,
+        "sku": "18-1",
+        "colorway": "Silver",
+        "imageFront": "/store/images/sunglasses/18_1_front.png",
+        "imageSide": "/store/images/sunglasses/18_1_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Matte silver",
+            "lensColor": "Iridescent blue-purple (mirror coating)",
+            "overallStyle": "Sporty rectangular",
+            "appearanceTone": "Two-tone (silver frame + iridescent lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular with softly rounded corners",
+            "frameThickness": "Moderate",
+            "lineFeatures": "Smooth, matte metallic surface; clean, angular lines from frame to temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Iridescent mirror (blue-purple base)",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Mirror-coated sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte metallic plastic",
+            "templeStructure": "Full-length, flexible design with slight curvature",
+            "noseBridgeDesign": "Integrated, contoured for fit"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light to moderate",
+            "faceShapeAdaptation": "Suitable for square, rectangular, or wide face shapes; angular lines balance strong facial features",
+            "populationStyleTendency": "Appealing to those seeking sporty, modern, or vibrant aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Outdoor sports, beach vacation, casual outings, street fashion"
+          }
+        }
+      }
+    ]
+  },
+  "12": {
+    "id": 5,
+    "model": 5,
+    "name": "Retro Metal Oval",
+    "description": "Retro-inspired oval sunglasses with black metal frame and gradient lenses.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 2,
+        "sku": "5-2",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/5_2_front.png",
+        "imageSide": "/store/images/sunglasses/5_2_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Black (with gold decorative details)",
+            "lensColor": "Dark gray",
+            "overallStyle": "Retro, compact",
+            "appearanceTone": "Classic, stylish"
+          },
+          "frameDesign": {
+            "frameShape": "Oval (narrow, curved outline)",
+            "frameThickness": "Moderate (solid-looking)",
+            "lineFeatures": "Smooth curves, with small metallic accents"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Gray (gradient)",
+            "lightTransmittance": "Medium (translucent gradient tint)",
+            "styleAttribute": "Light-filtering, modern daily-use"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Metal (lightweight-looking matte black)",
+            "templeStructure": "Thin metal arms",
+            "noseBridgeDesign": "Dual metal bridge (with adjustable nose pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Lightweight",
+            "faceShapeAdaptation": "Likely fits oval/rectangular faces",
+            "populationStyleTendency": "Suitable for daily casual or urban users"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily commuting, urban outings, sunny outdoor activities"
+          }
+        }
+      },
+      {
+        "variety": 1,
+        "sku": "5-1",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/5_1_front.png",
+        "imageSide": "/store/images/sunglasses/5_1_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Black (matte metallic)",
+            "lensColor": "Dark gray",
+            "overallStyle": "Modern pilot-style",
+            "appearanceTone": "Sleek, understated"
+          },
+          "frameDesign": {
+            "frameShape": "Square-pilot hybrid (square lenses with pilot-style top bar)",
+            "frameThickness": "Thin",
+            "lineFeatures": "Clean, angular contours with a thin top bar"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Gray",
+            "lightTransmittance": "Low (highly opaque tint)",
+            "styleAttribute": "Sun-protective, contemporary"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Metal (lightweight-looking matte black)",
+            "templeStructure": "Thin metal arms",
+            "noseBridgeDesign": "Dual metal bridge (with adjustable nose pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Lightweight",
+            "faceShapeAdaptation": "Likely fits oval/rectangular faces",
+            "populationStyleTendency": "Suitable for daily casual or urban users"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily commuting, urban outings, sunny outdoor activities"
+          }
+        }
+      }
+    ]
+  },
+  "13": {
+    "id": 7,
+    "model": 7,
+    "name": "Elegant Metal Oval",
+    "description": "Lightweight oval sunglasses with elegant gold metal frame.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 1,
+        "sku": "7-1",
+        "colorway": "Gold",
+        "imageFront": "/store/images/sunglasses/7_1_front.png",
+        "imageSide": "/store/images/sunglasses/7_1_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Light gold (metallic)",
+            "lensColor": "Dark gray",
+            "overallStyle": "Oval-frame sunglasses",
+            "appearanceTone": "Elegant and metallic"
+          },
+          "frameDesign": {
+            "frameShape": "Oval",
+            "frameThickness": "Thin (metal frame)",
+            "lineFeatures": "Smooth, curved and delicate lines"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Cool-toned (gray)",
+            "lightTransmittance": "Low (opaque under normal light)",
+            "styleAttribute": "Full-coverage, solid-color"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Shiny metal (likely alloy)",
+            "templeStructure": "Metal main body with partial dark decorative parts; small decorative markings on side",
+            "noseBridgeDesign": "Integrated metal bridge (connected to frame) with transparent nose pads"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light (based on thin metal material)",
+            "faceShapeAdaptation": "May fit round/square faces (oval frame softens lines)",
+            "populationStyleTendency": "Daily fashion, casual elegance"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily outing, casual leisure, sun protection"
+          }
+        }
+      },
+      {
+        "variety": 2,
+        "sku": "7-2",
+        "colorway": "Silver",
+        "imageFront": "/store/images/sunglasses/7_2_front.png",
+        "imageSide": "/store/images/sunglasses/7_2_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Silver (metallic)",
+            "lensColor": "Dark gray",
+            "overallStyle": "Oval-frame sunglasses",
+            "appearanceTone": "Elegant and metallic"
+          },
+          "frameDesign": {
+            "frameShape": "Oval",
+            "frameThickness": "Thin (metal frame)",
+            "lineFeatures": "Smooth, curved and delicate lines"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Shiny metal (likely alloy)",
+            "templeStructure": "Metal main body with partial dark decorative parts; small decorative markings on side",
+            "noseBridgeDesign": "Integrated metal bridge (connected to frame) with transparent nose pads"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light (based on thin metal material)",
+            "faceShapeAdaptation": "May fit round/square faces (oval frame softens lines)",
+            "populationStyleTendency": "Daily fashion, casual elegance"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily outing, casual leisure, sun protection"
+          }
+        }
+      }
+    ]
+  },
+  "14": {
+    "id": 11,
+    "model": 11,
+    "name": "Retro Thick Rectangle",
+    "description": "Thick retro rectangular sunglasses with polarized-style lenses.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 0,
+        "sku": "11-0",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/11_front.png",
+        "imageSide": "/store/images/sunglasses/11_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Black",
+            "lensColor": "Dark gray",
+            "overallStyle": "Retro rectangular",
+            "appearanceTone": "Monochromatic (dark)"
+          },
+          "frameDesign": {
+            "frameShape": "Rectangular with rounded edges",
+            "frameThickness": "Thick",
+            "lineFeatures": "Smooth, glossy, with subtle structural indentations on temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Neutral dark gray",
+            "lightTransmittance": "Low (opaque appearance)",
+            "styleAttribute": "Polarized/UV protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Glossy plastic/acrylic",
+            "templeStructure": "Full-wrap, with integrated frame connection",
+            "noseBridgeDesign": "Integrated, smooth contour"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Moderate (based on thick plastic frame)",
+            "faceShapeAdaptation": "Better suited for medium to wide face shapes",
+            "populationStyleTendency": "Popular among casual, streetwear, and retro fashion enthusiasts"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily casual, outdoor sun protection, street fashion, urban commuting"
+          }
+        }
+      }
+    ]
+  },
+  "15": {
+    "id": 4,
+    "model": 4,
+    "name": "Gold Accent Retro Oval",
+    "description": "Retro oval sunglasses with black frame and gold detailing.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 1,
+        "sku": "4-1",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/4_1_front.png",
+        "imageSide": "/store/images/sunglasses/4_1_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Black (with gold decorative details)",
+            "lensColor": "Dark gray",
+            "overallStyle": "Retro, compact",
+            "appearanceTone": "Classic, stylish"
+          },
+          "frameDesign": {
+            "frameShape": "Oval (narrow, curved outline)",
+            "frameThickness": "Moderate (solid-looking)",
+            "lineFeatures": "Smooth curves, with small metallic accents"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Gray",
+            "lightTransmittance": "Low (highly opaque tint)",
+            "styleAttribute": "Sun-protective, retro-style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Plastic (glossy black texture)",
+            "templeStructure": "Mixed (plastic front + metal rear, with gold finish)",
+            "noseBridgeDesign": "Integrated plastic bridge (fixed-type pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light to moderate",
+            "faceShapeAdaptation": "Likely fits small/oval faces",
+            "populationStyleTendency": "Suitable for retro fashion lovers"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Casual outings, daily streetwear, sunny days"
+          }
+        }
+      },
+      {
+        "variety": 2,
+        "sku": "4-2",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/4_2_front.png",
+        "imageSide": "/store/images/sunglasses/4_2_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Black (with gold decorative details)",
+            "lensColor": "Dark gray",
+            "overallStyle": "Retro, compact",
+            "appearanceTone": "Classic, stylish"
+          },
+          "frameDesign": {
+            "frameShape": "Oval (narrow, curved outline)",
+            "frameThickness": "Moderate (solid-looking)",
+            "lineFeatures": "Smooth curves, with small metallic accents"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Gray",
+            "lightTransmittance": "Low (highly opaque tint)",
+            "styleAttribute": "Sun-protective, retro-style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Plastic (glossy black texture)",
+            "templeStructure": "Mixed (plastic front + metal rear, with gold finish)",
+            "noseBridgeDesign": "Integrated plastic bridge (fixed-type pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light to moderate",
+            "faceShapeAdaptation": "Likely fits small/oval faces",
+            "populationStyleTendency": "Suitable for retro fashion lovers"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Casual outings, daily streetwear, sunny days"
+          }
+        }
+      }
+    ]
+  },
+  "16": {
+    "id": 1,
+    "model": 1,
+    "name": "Retro Cat-Eye Classic",
+    "description": "Vintage-inspired cat-eye sunglasses with matte black frame and dark gray lenses.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 2,
+        "sku": "1-2",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/1_2_front.png",
+        "imageSide": "/store/images/sunglasses/1_2_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Black",
+            "lensColor": "Dark gray (opaque)",
+            "overallStyle": "Classic retro sunglasses",
+            "appearanceTone": "Monochromatic dark"
+          },
+          "frameDesign": {
+            "frameShape": "Cat-eye (slightly upturned at the outer corners)",
+            "frameThickness": "Thin to moderate",
+            "lineFeatures": "Smooth, with a subtle upward curve at the temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Gray series",
+            "lightTransmittance": "Low (opaque)",
+            "styleAttribute": "Sun-shading protective"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte plastic (or acetate)",
+            "templeStructure": "Slim, curved, and extended for ear support",
+            "noseBridgeDesign": "Saddle bridge (integrated with the frame front)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light to moderate (based on frame thickness and material)",
+            "faceShapeAdaptation": "Likely suitable for heart-shaped or oval faces",
+            "populationStyleTendency": "Retro fashion enthusiasts, casual outdoor lovers"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Beach vacation, street photography, daily commuting, outdoor activities"
+          }
+        }
+      },
+      {
+        "variety": 1,
+        "sku": "1-1",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/1_1_front.png",
+        "imageSide": "/store/images/sunglasses/1_1_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Black",
+            "lensColor": "Light brown (translucent)",
+            "overallStyle": "Daily casual sunglasses",
+            "appearanceTone": "Dark (frame) with warm light (lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Oval (slightly curved)",
+            "frameThickness": "Moderate",
+            "lineFeatures": "Smooth, rounded edges"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Brown series",
+            "lightTransmittance": "Medium (semi-transparent)",
+            "styleAttribute": "Daily protective"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Glossy plastic (or resin)",
+            "templeStructure": "Integrated with frame, curved",
+            "noseBridgeDesign": "Integrated (connected directly to frame)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light (based on frame material)",
+            "faceShapeAdaptation": "Likely suitable for round/oval faces",
+            "populationStyleTendency": "Casual daily wear (general public)"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily outdoor, casual travel"
+          }
+        }
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "model": 17,
+    "name": "Bold Retro Oval",
+    "description": "Bold black oval sunglasses with strong retro influence.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 2,
+        "sku": "17-2",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/17_2_front.png",
+        "imageSide": "/store/images/sunglasses/17_2_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Matte black",
+            "lensColor": "Dark gray",
+            "overallStyle": "Retro oval",
+            "appearanceTone": "Monochromatic (dark)"
+          },
+          "frameDesign": {
+            "frameShape": "Oval with thick, rounded edges",
+            "frameThickness": "Moderate to thick",
+            "lineFeatures": "Smooth, matte surface; bold, continuous curved lines from frame to temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Neutral dark gray",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte plastic",
+            "templeStructure": "Full-length, slightly curved design",
+            "noseBridgeDesign": "Integrated, flat contour"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Moderate",
+            "faceShapeAdaptation": "Suitable for oval, round, or heart face shapes; bold frame balances soft facial features",
+            "populationStyleTendency": "Appealing to those seeking retro, minimalist, or edgy aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Street fashion, casual outings, urban travel, music festivals"
+          }
+        }
+      },
+      {
+        "variety": 1,
+        "sku": "17-1",
+        "colorway": "Silver",
+        "imageFront": "/store/images/sunglasses/17_1_front.png",
+        "imageSide": "/store/images/sunglasses/17_1_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Matte silver",
+            "lensColor": "Dark gray",
+            "overallStyle": "Retro oval",
+            "appearanceTone": "Two-tone (silver frame + dark gray lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Oval with thick, rounded edges",
+            "frameThickness": "Moderate to thick",
+            "lineFeatures": "Smooth, matte metallic surface; bold, continuous curved lines from frame to temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Neutral dark gray",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte metallic plastic",
+            "templeStructure": "Full-length, slightly curved design",
+            "noseBridgeDesign": "Integrated, flat contour"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Moderate",
+            "faceShapeAdaptation": "Suitable for oval, round, or heart face shapes; bold frame balances soft facial features",
+            "populationStyleTendency": "Appealing to those seeking retro, futuristic, or edgy aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Street fashion, music festivals, casual outings, urban travel"
+          }
+        }
+      }
+    ]
+  },
+  "18": {
+    "id": 8,
+    "model": 8,
+    "name": "Youthful Oval Frame",
+    "description": "Soft oval sunglasses with thick white frame for casual style.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 1,
+        "sku": "8-1",
+        "colorway": "White",
+        "imageFront": "/store/images/sunglasses/8_1_front.png",
+        "imageSide": "/store/images/sunglasses/8_1_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "White",
+            "lensColor": "Dark gray (with slight light reflection)",
+            "overallStyle": "Oval-frame sunglasses",
+            "appearanceTone": "Minimalist, fresh"
+          },
+          "frameDesign": {
+            "frameShape": "Oval (full-frame)",
+            "frameThickness": "Relatively thick (plump edge design)",
+            "lineFeatures": "Smooth, rounded curves (no sharp angles)"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Dark neutral color (gray series)",
+            "lightTransmittance": "Low (suitable for strong light)",
+            "styleAttribute": "Opaque (non-polarized appearance)"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Smooth plastic (glossy surface)",
+            "templeStructure": "Integrated with frame (curved for fitting ears)",
+            "noseBridgeDesign": "Connected full-frame bridge (no independent nose pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light (plastic material)",
+            "faceShapeAdaptation": "Suitable for small to medium face shapes",
+            "populationStyleTendency": "Youthful, casual fashion preference"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily leisure, outdoor activities (sun protection), casual matching"
+          }
+        }
+      },
+      {
+        "variety": 2,
+        "sku": "8-2",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/8_2_front.png",
+        "imageSide": "/store/images/sunglasses/8_2_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Black",
+            "lensColor": "Dark gray (with subtle light reflection)",
+            "overallStyle": "Oval-frame sunglasses",
+            "appearanceTone": "Sleek, understated"
+          },
+          "frameDesign": {
+            "frameShape": "Oval (full-frame)",
+            "frameThickness": "Moderately thick (plump edge design)",
+            "lineFeatures": "Smooth, rounded curves (no sharp angles)"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Dark neutral color (gray series)",
+            "lightTransmittance": "Low (suitable for strong light)",
+            "styleAttribute": "Opaque (non-polarized appearance)"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Glossy plastic",
+            "templeStructure": "Integrated with frame (curved for ear fitting; with a small heart-shaped decorative detail)",
+            "noseBridgeDesign": "Connected full-frame bridge (no independent nose pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light (plastic material)",
+            "faceShapeAdaptation": "Suitable for small to medium face shapes",
+            "populationStyleTendency": "Casual, trendy fashion preference"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily leisure, outdoor sun protection, casual styling"
+          }
+        }
+      },
+      {
+        "variety": 3,
+        "sku": "8-3",
+        "colorway": null,
+        "imageFront": "/store/images/sunglasses/8_3_front.png",
+        "imageSide": "/store/images/sunglasses/8_3_side.png",
+        "details": {}
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "model": 19,
+    "name": "Sporty Rounded Rectangle",
+    "description": "Vibrant red sporty sunglasses with rounded rectangular frame.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 0,
+        "sku": "19-0",
+        "colorway": "Red",
+        "imageFront": "/store/images/sunglasses/19_front.png",
+        "imageSide": "/store/images/sunglasses/19_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Matte metallic red",
+            "lensColor": "Dark gray",
+            "overallStyle": "Sporty rounded rectangular",
+            "appearanceTone": "Two-tone (red frame + dark gray lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Rounded rectangular with soft, curved edges",
+            "frameThickness": "Moderate",
+            "lineFeatures": "Smooth, matte metallic surface; continuous curved lines from frame to temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Neutral dark gray",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Matte metallic plastic",
+            "templeStructure": "Full-length, flexible design with slight curvature",
+            "noseBridgeDesign": "Integrated, contoured for fit"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light to moderate",
+            "faceShapeAdaptation": "Suitable for oval, round, or heart face shapes; soft curves balance facial features",
+            "populationStyleTendency": "Appealing to those seeking sporty, vibrant, or distinctive aesthetics"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Outdoor sports, casual outings, urban travel, weekend activities"
+          }
+        }
+      }
+    ]
+  },
+  "20": {
+    "id": 13,
+    "model": 13,
+    "name": "Modern Translucent Square",
+    "description": "Semi-transparent olive square sunglasses with modern appeal.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 0,
+        "sku": "13-0",
+        "colorway": "Olive Green",
+        "imageFront": "/store/images/sunglasses/13_front.png",
+        "imageSide": "/store/images/sunglasses/13_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Translucent olive green",
+            "lensColor": "Dark gray",
+            "overallStyle": "Modern square",
+            "appearanceTone": "Two-tone (olive green frame + dark gray lens)"
+          },
+          "frameDesign": {
+            "frameShape": "Square with sharp edges",
+            "frameThickness": "Moderate",
+            "lineFeatures": "Smooth, semi-translucent, with subtle metal accents on the temple joints"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Neutral dark gray",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Semi-translucent plastic",
+            "templeStructure": "Full-length, with a slightly tapered design",
+            "noseBridgeDesign": "Integrated, flat contour"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light to moderate",
+            "faceShapeAdaptation": "Better suited for medium to wide face shapes",
+            "populationStyleTendency": "Appealing to those seeking a modern, understated yet distinctive look"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily commuting, outdoor leisure, urban streetwear, casual outings"
+          }
+        }
+      }
+    ]
+  },
+  "21": {
+    "id": 12,
+    "model": 12,
+    "name": "Classic Square Daily",
+    "description": "Timeless square sunglasses with subtle metal accents.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 0,
+        "sku": "12-0",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/12_front.png",
+        "imageSide": "/store/images/sunglasses/12_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Black",
+            "lensColor": "Dark gray",
+            "overallStyle": "Classic square",
+            "appearanceTone": "Monochromatic (dark)"
+          },
+          "frameDesign": {
+            "frameShape": "Square with softly rounded corners",
+            "frameThickness": "Moderate",
+            "lineFeatures": "Smooth, glossy, with small metal dot accents on the front and subtle gold markings on temples"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Neutral dark gray",
+            "lightTransmittance": "Low (near-opaque)",
+            "styleAttribute": "Sun protection style"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Glossy plastic",
+            "templeStructure": "Full-length, integrated with the frame",
+            "noseBridgeDesign": "Integrated, contoured for fit"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light to moderate",
+            "faceShapeAdaptation": "Versatile, suitable for most face shapes",
+            "populationStyleTendency": "Appealing to those seeking classic, understated daily wear"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily commuting, outdoor activities, casual outings, everyday sun protection"
+          }
+        }
+      }
+    ]
+  },
+  "22": {
+    "id": 10,
+    "model": 10,
+    "name": "Decorative Square Bold",
+    "description": "Statement square sunglasses with decorative embossed details.",
+    "price": "Upon Request",
+    "moq": 20,
+    "variants": [
+      {
+        "variety": 0,
+        "sku": "10-0",
+        "colorway": "Black",
+        "imageFront": "/store/images/sunglasses/10_front.png",
+        "imageSide": "/store/images/sunglasses/10_side.png",
+        "details": {
+          "basicAppearance": {
+            "frameColor": "Black",
+            "lensColor": "Dark gray (with subtle light reflection)",
+            "overallStyle": "Square-frame sunglasses",
+            "appearanceTone": "Sleek, decorative"
+          },
+          "frameDesign": {
+            "frameShape": "Square (soft-edged, full-frame)",
+            "frameThickness": "Moderately thick",
+            "lineFeatures": "Irregular decorative edges (with raised patterns); small dot details on frame front"
+          },
+          "lensFeatures": {
+            "lensColorFamily": "Dark neutral color (gray series)",
+            "lightTransmittance": "Low (suitable for strong light)",
+            "styleAttribute": "Opaque (non-polarized appearance)"
+          },
+          "materialAndStructure": {
+            "frameMaterialAppearance": "Glossy plastic",
+            "templeStructure": "Integrated with frame (curved for ear fitting; with hollow circular decorative details)",
+            "noseBridgeDesign": "Connected full-frame bridge (no independent nose pads)"
+          },
+          "wearingAndAdaptationFeatures": {
+            "weightPerception": "Light (plastic material)",
+            "faceShapeAdaptation": "Suitable for medium to large face shapes",
+            "populationStyleTendency": "Fashion-focused, decorative style preference"
+          },
+          "usageScenarioClassification": {
+            "scenarioKeywords": "Daily leisure, outdoor sun protection, fashion styling"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+[0;1;32m●[0m nginx.service - A high performance web server and a reverse proxy server
+     Loaded: loaded (/lib/systemd/system/nginx.service; enabled; vendor preset: enabled)
+     Active: [0;1;32mactive (running)[0m since Mon 2026-09-07 20:45:53 UTC; 1h 39min ago
+       Docs: man:nginx(8)
+    Process: 714 ExecStartPre=/usr/sbin/nginx -t -q -g daemon on; master_process on; (code=exited, status=0/SUCCESS)
+    Process: 728 ExecStart=/usr/sbin/nginx -g daemon on; master_process on; (code=exited, status=0/SUCCESS)
+    Process: 1228 ExecReload=/usr/sbin/nginx -g daemon on; master_process on; -s reload (code=exited, status=0/SUCCESS)
+   Main PID: 753 (nginx)
+      Tasks: 3 (limit: 3421)
+     Memory: 22.8M
+        CPU: 2.291s
+     CGroup: /system.slice/nginx.service
+             ├─ 753 "nginx: master process /usr/sbin/nginx -g daemon on; master_process on;"
+             ├─1345 "nginx: worker process" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" ""
+             └─1346 "nginx: worker process" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" ""
+
+Sep 07 20:45:53 racknerd-7230614 systemd[1]: Starting A high performance web server and a reverse proxy server...
+Sep 07 20:45:53 racknerd-7230614 systemd[1]: Started A high performance web server and a reverse proxy server.
+Sep 07 21:32:01 racknerd-7230614 systemd[1]: Reloading A high performance web server and a reverse proxy server...
+Sep 07 21:32:01 racknerd-7230614 systemd[1]: Reloaded A high performance web server and a reverse proxy server.
+Sep 07 21:53:26 racknerd-7230614 systemd[1]: Reloading A high performance web server and a reverse proxy server...
+Sep 07 21:53:26 racknerd-7230614 systemd[1]: Reloaded A high performance web server and a reverse proxy server.
