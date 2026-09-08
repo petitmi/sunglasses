@@ -4,7 +4,7 @@ import json
 import socket
 import smtplib
 from email.mime.text import MIMEText
-import tomllib
+import tomli as tomllib
 
 ecommerce_bp = Blueprint("ecommerce", __name__)
 

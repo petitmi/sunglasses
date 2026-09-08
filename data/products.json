@@ -11,8 +11,8 @@
         "variety": 0,
         "sku": "21-0",
         "colorway": "Tortoiseshell",
-        "imageFront": "/store/images/sunglasses/21_front.png",
-        "imageSide": "/store/images/sunglasses/21_side.png",
+        "imageFront": "/images/sunglasses/21_front.png",
+        "imageSide": "/images/sunglasses/21_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Tortoiseshell (brown and black marbled pattern)",
@@ -59,8 +59,8 @@
         "variety": 1,
         "sku": "16-1",
         "colorway": "White",
-        "imageFront": "/store/images/sunglasses/16_1_front.png",
-        "imageSide": "/store/images/sunglasses/16_1_side.png",
+        "imageFront": "/images/sunglasses/16_1_front.png",
+        "imageSide": "/images/sunglasses/16_1_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Matte white",
@@ -97,8 +97,8 @@
         "variety": 2,
         "sku": "16-2",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/16_2_front.png",
-        "imageSide": "/store/images/sunglasses/16_2_side.png",
+        "imageFront": "/images/sunglasses/16_2_front.png",
+        "imageSide": "/images/sunglasses/16_2_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Matte black",
@@ -145,8 +145,8 @@
         "variety": 1,
         "sku": "2-1",
         "colorway": "Silver",
-        "imageFront": "/store/images/sunglasses/2_1_front.png",
-        "imageSide": "/store/images/sunglasses/2_1_side.png",
+        "imageFront": "/images/sunglasses/2_1_front.png",
+        "imageSide": "/images/sunglasses/2_1_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Silver (metallic)",
@@ -183,8 +183,8 @@
         "variety": 3,
         "sku": "2-3",
         "colorway": "Brown",
-        "imageFront": "/store/images/sunglasses/2_3_front.png",
-        "imageSide": "/store/images/sunglasses/2_3_side.png",
+        "imageFront": "/images/sunglasses/2_3_front.png",
+        "imageSide": "/images/sunglasses/2_3_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Silver (metallic)",
@@ -221,8 +221,8 @@
         "variety": 2,
         "sku": "2-2",
         "colorway": "Blue",
-        "imageFront": "/store/images/sunglasses/2_2_front.png",
-        "imageSide": "/store/images/sunglasses/2_2_side.png",
+        "imageFront": "/images/sunglasses/2_2_front.png",
+        "imageSide": "/images/sunglasses/2_2_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Silver (metallic)",
@@ -259,8 +259,8 @@
         "variety": 4,
         "sku": "2-4",
         "colorway": "Green",
-        "imageFront": "/store/images/sunglasses/2_4_front.png",
-        "imageSide": "/store/images/sunglasses/2_4_side.png",
+        "imageFront": "/images/sunglasses/2_4_front.png",
+        "imageSide": "/images/sunglasses/2_4_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Silver (metallic)",
@@ -307,8 +307,8 @@
         "variety": 4,
         "sku": "20-4",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/20_4_front.png",
-        "imageSide": "/store/images/sunglasses/20_4_side.png",
+        "imageFront": "/images/sunglasses/20_4_front.png",
+        "imageSide": "/images/sunglasses/20_4_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Matte black (metallic)",
@@ -345,8 +345,8 @@
         "variety": 3,
         "sku": "20-3",
         "colorway": "Red",
-        "imageFront": "/store/images/sunglasses/20_3_front.png",
-        "imageSide": "/store/images/sunglasses/20_3_side.png",
+        "imageFront": "/images/sunglasses/20_3_front.png",
+        "imageSide": "/images/sunglasses/20_3_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Matte red (metallic)",
@@ -383,8 +383,8 @@
         "variety": 2,
         "sku": "20-2",
         "colorway": "Silver",
-        "imageFront": "/store/images/sunglasses/20_2_front.png",
-        "imageSide": "/store/images/sunglasses/20_2_side.png",
+        "imageFront": "/images/sunglasses/20_2_front.png",
+        "imageSide": "/images/sunglasses/20_2_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Matte silver (metallic)",
@@ -421,8 +421,8 @@
         "variety": 1,
         "sku": "20-1",
         "colorway": "White",
-        "imageFront": "/store/images/sunglasses/20_1_front.png",
-        "imageSide": "/store/images/sunglasses/20_1_side.png",
+        "imageFront": "/images/sunglasses/20_1_front.png",
+        "imageSide": "/images/sunglasses/20_1_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Matte white",
@@ -469,8 +469,8 @@
         "variety": 0,
         "sku": "6-0",
         "colorway": "White",
-        "imageFront": "/store/images/sunglasses/6_front.png",
-        "imageSide": "/store/images/sunglasses/6_side.png",
+        "imageFront": "/images/sunglasses/6_front.png",
+        "imageSide": "/images/sunglasses/6_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "White",
@@ -517,8 +517,8 @@
         "variety": 2,
         "sku": "9-2",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/9_2_front.png",
-        "imageSide": "/store/images/sunglasses/9_2_side.png",
+        "imageFront": "/images/sunglasses/9_2_front.png",
+        "imageSide": "/images/sunglasses/9_2_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Black",
@@ -555,8 +555,8 @@
         "variety": 3,
         "sku": "9-3",
         "colorway": "Tortoiseshell",
-        "imageFront": "/store/images/sunglasses/9_3_front.png",
-        "imageSide": "/store/images/sunglasses/9_3_side.png",
+        "imageFront": "/images/sunglasses/9_3_front.png",
+        "imageSide": "/images/sunglasses/9_3_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Tortoiseshell (brown with irregular lighter patterns)",
@@ -593,8 +593,8 @@
         "variety": 1,
         "sku": "9-1",
         "colorway": "Off-white",
-        "imageFront": "/store/images/sunglasses/9_1_front.png",
-        "imageSide": "/store/images/sunglasses/9_1_side.png",
+        "imageFront": "/images/sunglasses/9_1_front.png",
+        "imageSide": "/images/sunglasses/9_1_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Off-white (light white)",
@@ -641,8 +641,8 @@
         "variety": 0,
         "sku": "22-0",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/22_front.png",
-        "imageSide": "/store/images/sunglasses/22_side.png",
+        "imageFront": "/images/sunglasses/22_front.png",
+        "imageSide": "/images/sunglasses/22_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Glossy black",
@@ -689,8 +689,8 @@
         "variety": 0,
         "sku": "14-0",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/14_front.png",
-        "imageSide": "/store/images/sunglasses/14_side.png",
+        "imageFront": "/images/sunglasses/14_front.png",
+        "imageSide": "/images/sunglasses/14_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Black",
@@ -737,8 +737,8 @@
         "variety": 0,
         "sku": "15-0",
         "colorway": "Purple",
-        "imageFront": "/store/images/sunglasses/15_front.png",
-        "imageSide": "/store/images/sunglasses/15_side.png",
+        "imageFront": "/images/sunglasses/15_front.png",
+        "imageSide": "/images/sunglasses/15_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Pastel light purple (matte finish)",
@@ -785,8 +785,8 @@
         "variety": 0,
         "sku": "3-0",
         "colorway": "Transparent",
-        "imageFront": "/store/images/sunglasses/3_front.png",
-        "imageSide": "/store/images/sunglasses/3_side.png",
+        "imageFront": "/images/sunglasses/3_front.png",
+        "imageSide": "/images/sunglasses/3_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Transparent clear",
@@ -833,8 +833,8 @@
         "variety": 2,
         "sku": "18-2",
         "colorway": "Olive Green",
-        "imageFront": "/store/images/sunglasses/18_2_front.png",
-        "imageSide": "/store/images/sunglasses/18_2_side.png",
+        "imageFront": "/images/sunglasses/18_2_front.png",
+        "imageSide": "/images/sunglasses/18_2_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Matte dark olive green",
@@ -871,8 +871,8 @@
         "variety": 1,
         "sku": "18-1",
         "colorway": "Silver",
-        "imageFront": "/store/images/sunglasses/18_1_front.png",
-        "imageSide": "/store/images/sunglasses/18_1_side.png",
+        "imageFront": "/images/sunglasses/18_1_front.png",
+        "imageSide": "/images/sunglasses/18_1_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Matte silver",
@@ -919,8 +919,8 @@
         "variety": 2,
         "sku": "5-2",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/5_2_front.png",
-        "imageSide": "/store/images/sunglasses/5_2_side.png",
+        "imageFront": "/images/sunglasses/5_2_front.png",
+        "imageSide": "/images/sunglasses/5_2_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Black (with gold decorative details)",
@@ -957,8 +957,8 @@
         "variety": 1,
         "sku": "5-1",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/5_1_front.png",
-        "imageSide": "/store/images/sunglasses/5_1_side.png",
+        "imageFront": "/images/sunglasses/5_1_front.png",
+        "imageSide": "/images/sunglasses/5_1_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Black (matte metallic)",
@@ -1005,8 +1005,8 @@
         "variety": 1,
         "sku": "7-1",
         "colorway": "Gold",
-        "imageFront": "/store/images/sunglasses/7_1_front.png",
-        "imageSide": "/store/images/sunglasses/7_1_side.png",
+        "imageFront": "/images/sunglasses/7_1_front.png",
+        "imageSide": "/images/sunglasses/7_1_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Light gold (metallic)",
@@ -1043,8 +1043,8 @@
         "variety": 2,
         "sku": "7-2",
         "colorway": "Silver",
-        "imageFront": "/store/images/sunglasses/7_2_front.png",
-        "imageSide": "/store/images/sunglasses/7_2_side.png",
+        "imageFront": "/images/sunglasses/7_2_front.png",
+        "imageSide": "/images/sunglasses/7_2_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Silver (metallic)",
@@ -1086,8 +1086,8 @@
         "variety": 0,
         "sku": "11-0",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/11_front.png",
-        "imageSide": "/store/images/sunglasses/11_side.png",
+        "imageFront": "/images/sunglasses/11_front.png",
+        "imageSide": "/images/sunglasses/11_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Black",
@@ -1134,8 +1134,8 @@
         "variety": 1,
         "sku": "4-1",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/4_1_front.png",
-        "imageSide": "/store/images/sunglasses/4_1_side.png",
+        "imageFront": "/images/sunglasses/4_1_front.png",
+        "imageSide": "/images/sunglasses/4_1_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Black (with gold decorative details)",
@@ -1172,8 +1172,8 @@
         "variety": 2,
         "sku": "4-2",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/4_2_front.png",
-        "imageSide": "/store/images/sunglasses/4_2_side.png",
+        "imageFront": "/images/sunglasses/4_2_front.png",
+        "imageSide": "/images/sunglasses/4_2_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Black (with gold decorative details)",
@@ -1220,8 +1220,8 @@
         "variety": 2,
         "sku": "1-2",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/1_2_front.png",
-        "imageSide": "/store/images/sunglasses/1_2_side.png",
+        "imageFront": "/images/sunglasses/1_2_front.png",
+        "imageSide": "/images/sunglasses/1_2_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Black",
@@ -1258,8 +1258,8 @@
         "variety": 1,
         "sku": "1-1",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/1_1_front.png",
-        "imageSide": "/store/images/sunglasses/1_1_side.png",
+        "imageFront": "/images/sunglasses/1_1_front.png",
+        "imageSide": "/images/sunglasses/1_1_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Black",
@@ -1306,8 +1306,8 @@
         "variety": 2,
         "sku": "17-2",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/17_2_front.png",
-        "imageSide": "/store/images/sunglasses/17_2_side.png",
+        "imageFront": "/images/sunglasses/17_2_front.png",
+        "imageSide": "/images/sunglasses/17_2_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Matte black",
@@ -1344,8 +1344,8 @@
         "variety": 1,
         "sku": "17-1",
         "colorway": "Silver",
-        "imageFront": "/store/images/sunglasses/17_1_front.png",
-        "imageSide": "/store/images/sunglasses/17_1_side.png",
+        "imageFront": "/images/sunglasses/17_1_front.png",
+        "imageSide": "/images/sunglasses/17_1_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Matte silver",
@@ -1392,8 +1392,8 @@
         "variety": 1,
         "sku": "8-1",
         "colorway": "White",
-        "imageFront": "/store/images/sunglasses/8_1_front.png",
-        "imageSide": "/store/images/sunglasses/8_1_side.png",
+        "imageFront": "/images/sunglasses/8_1_front.png",
+        "imageSide": "/images/sunglasses/8_1_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "White",
@@ -1430,8 +1430,8 @@
         "variety": 2,
         "sku": "8-2",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/8_2_front.png",
-        "imageSide": "/store/images/sunglasses/8_2_side.png",
+        "imageFront": "/images/sunglasses/8_2_front.png",
+        "imageSide": "/images/sunglasses/8_2_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Black",
@@ -1468,8 +1468,8 @@
         "variety": 3,
         "sku": "8-3",
         "colorway": null,
-        "imageFront": "/store/images/sunglasses/8_3_front.png",
-        "imageSide": "/store/images/sunglasses/8_3_side.png",
+        "imageFront": "/images/sunglasses/8_3_front.png",
+        "imageSide": "/images/sunglasses/8_3_side.png",
         "details": {}
       }
     ]
@@ -1486,8 +1486,8 @@
         "variety": 0,
         "sku": "19-0",
         "colorway": "Red",
-        "imageFront": "/store/images/sunglasses/19_front.png",
-        "imageSide": "/store/images/sunglasses/19_side.png",
+        "imageFront": "/images/sunglasses/19_front.png",
+        "imageSide": "/images/sunglasses/19_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Matte metallic red",
@@ -1534,8 +1534,8 @@
         "variety": 0,
         "sku": "13-0",
         "colorway": "Olive Green",
-        "imageFront": "/store/images/sunglasses/13_front.png",
-        "imageSide": "/store/images/sunglasses/13_side.png",
+        "imageFront": "/images/sunglasses/13_front.png",
+        "imageSide": "/images/sunglasses/13_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Translucent olive green",
@@ -1582,8 +1582,8 @@
         "variety": 0,
         "sku": "12-0",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/12_front.png",
-        "imageSide": "/store/images/sunglasses/12_side.png",
+        "imageFront": "/images/sunglasses/12_front.png",
+        "imageSide": "/images/sunglasses/12_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Black",
@@ -1630,8 +1630,8 @@
         "variety": 0,
         "sku": "10-0",
         "colorway": "Black",
-        "imageFront": "/store/images/sunglasses/10_front.png",
-        "imageSide": "/store/images/sunglasses/10_side.png",
+        "imageFront": "/images/sunglasses/10_front.png",
+        "imageSide": "/images/sunglasses/10_side.png",
         "details": {
           "basicAppearance": {
             "frameColor": "Black",
